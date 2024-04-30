@@ -17,9 +17,15 @@ const ProductModal = ({ show, handleClose, product }) => {
         <Modal.Title>{product.title}</Modal.Title>
       </Modal.Header>
       <Modal.Body>
-        <p><strong>Price:</strong> {product.price}$</p>
-        <p><strong>Quantity:</strong> {product.quantity}</p>
-        <p><strong>Category:</strong> {product.categories[0].title}</p>
+        <p>
+          <strong>Price:</strong> {product.price}$
+        </p>
+        <p>
+          <strong>Quantity:</strong> {product.quantity}
+        </p>
+        <p>
+          <strong>Category:</strong> {product.categories[0].title}
+        </p>
         <div className="image-container">
           {product.images.length > 0 && (
             <img
@@ -105,9 +111,14 @@ const Home = () => {
       <div>
         {data.length > productsPerPage && (
           <ul className="pagination">
-            {Array.from({ length: Math.ceil(data.length / productsPerPage) }).map((_, index) => (
+            {Array.from({
+              length: Math.ceil(data.length / productsPerPage),
+            }).map((_, index) => (
               <li key={index} className="page-item">
-                <button onClick={() => paginate(index + 1)} className="page-link">
+                <button
+                  onClick={() => paginate(index + 1)}
+                  className="page-link"
+                >
                   {index + 1}
                 </button>
               </li>
