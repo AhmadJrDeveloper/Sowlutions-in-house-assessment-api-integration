@@ -1,0 +1,1306 @@
+[
+  {
+    "success": true,
+    "data": {
+      "items": [
+        {
+          "id": 9648,
+          "title": "Crescent and Stars Egypation Linen tablecloth  170X300cm ",
+          "brand": null,
+          "sap_id": null,
+          "sku": "90319457",
+          "country_id": null,
+          "class_name": "Product",
+          "created_at": "2024-03-14T11:13:01.049Z",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 1430,
+              "parent_category_id": 1323,
+              "title": "Ramadan Decorations",
+              "class_name": "Category",
+              "created_at": "2023-03-15T08:13:11.241Z",
+              "images": []
+            },
+            {
+              "id": 1447,
+              "parent_category_id": 1333,
+              "title": "Gifting",
+              "class_name": "Category",
+              "created_at": "2023-03-16T11:35:41.395Z",
+              "images": []
+            }
+          ],
+          "original_price": "579.0",
+          "discounted_price": "0.0",
+          "price": "579.0",
+          "quantity": 3,
+          "max_allowed_quantity": 0,
+          "shelf_zone": " - ",
+          "shelf_section": " - ",
+          "store_id": 2,
+          "images": [
+            {
+              "id": 14957,
+              "class_name": "Attachment",
+              "created_at": "2024-03-18T11:57:13.875Z",
+              "thumbnail": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/variants/f0tnp9jjnzgol69p2e7hse4k2gwg/d9a7142c0edd0c7ba3c0514da6fd9ac8c6600935a3fbee1525591a8b02d174d3",
+              "large": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/variants/f0tnp9jjnzgol69p2e7hse4k2gwg/7db2cf65b821e1c913278aa2330b2b0d0a3de80d2e08d670f168338aff27b88a",
+              "small": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/variants/f0tnp9jjnzgol69p2e7hse4k2gwg/586a0a7852ceebf33b31e3d51f8df03bb75dcf62780a7b8307e70f0841f63592",
+              "extra_small": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/variants/f0tnp9jjnzgol69p2e7hse4k2gwg/1f85669116353e17ab4cce87fd13f5112cb0fa9c099a4799ddc8f38d687025ff",
+              "original": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/f0tnp9jjnzgol69p2e7hse4k2gwg",
+              "extra_props": {
+                "identified": true
+              }
+            },
+            {
+              "id": 14956,
+              "class_name": "Attachment",
+              "created_at": "2024-03-18T11:57:13.844Z",
+              "thumbnail": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/variants/53kmmqvbv47f13b2u03mfwm5gm12/d9a7142c0edd0c7ba3c0514da6fd9ac8c6600935a3fbee1525591a8b02d174d3",
+              "large": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/variants/53kmmqvbv47f13b2u03mfwm5gm12/7db2cf65b821e1c913278aa2330b2b0d0a3de80d2e08d670f168338aff27b88a",
+              "small": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/variants/53kmmqvbv47f13b2u03mfwm5gm12/586a0a7852ceebf33b31e3d51f8df03bb75dcf62780a7b8307e70f0841f63592",
+              "extra_small": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/variants/53kmmqvbv47f13b2u03mfwm5gm12/1f85669116353e17ab4cce87fd13f5112cb0fa9c099a4799ddc8f38d687025ff",
+              "original": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/53kmmqvbv47f13b2u03mfwm5gm12",
+              "extra_props": {
+                "identified": true
+              }
+            },
+            {
+              "id": 14955,
+              "class_name": "Attachment",
+              "created_at": "2024-03-18T11:57:13.800Z",
+              "thumbnail": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/variants/9odrho6ldv5k4m4fjk3vksbsbhm8/d9a7142c0edd0c7ba3c0514da6fd9ac8c6600935a3fbee1525591a8b02d174d3",
+              "large": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/variants/9odrho6ldv5k4m4fjk3vksbsbhm8/7db2cf65b821e1c913278aa2330b2b0d0a3de80d2e08d670f168338aff27b88a",
+              "small": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/variants/9odrho6ldv5k4m4fjk3vksbsbhm8/586a0a7852ceebf33b31e3d51f8df03bb75dcf62780a7b8307e70f0841f63592",
+              "extra_small": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/variants/9odrho6ldv5k4m4fjk3vksbsbhm8/1f85669116353e17ab4cce87fd13f5112cb0fa9c099a4799ddc8f38d687025ff",
+              "original": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/9odrho6ldv5k4m4fjk3vksbsbhm8",
+              "extra_props": {
+                "identified": true
+              }
+            }
+          ]
+        },
+        {
+          "id": 6628,
+          "title": "Sprite 2.2L",
+          "brand": null,
+          "sap_id": null,
+          "sku": "5449000285867",
+          "country_id": null,
+          "class_name": "Product",
+          "created_at": "2023-07-20T06:58:00.822Z",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 37,
+              "parent_category_id": 35,
+              "title": "Soft Drinks",
+              "class_name": "Category",
+              "created_at": "2022-09-28T15:16:38.900Z",
+              "images": []
+            }
+          ],
+          "original_price": "9.95",
+          "discounted_price": "0.0",
+          "price": "9.95",
+          "quantity": 3,
+          "max_allowed_quantity": 0,
+          "shelf_zone": " - ",
+          "shelf_section": " - ",
+          "store_id": 2,
+          "images": [
+            {
+              "id": 13254,
+              "class_name": "Attachment",
+              "created_at": "2024-01-03T08:35:07.565Z",
+              "thumbnail": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/variants/ntltcihxrnb7wal3spk4s8kumn9u/cfac2cf5e20fe7457efd3f809e7f27e58f4ea9095af3b17038d0c3ad02cc7e81",
+              "large": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/variants/ntltcihxrnb7wal3spk4s8kumn9u/591fe3429fa59bfe054d222d66110883129e394e673fe4d32f213228e05dd59e",
+              "small": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/variants/ntltcihxrnb7wal3spk4s8kumn9u/29a9bad9089cbe7b09bf93243050556c68653f44594116934458f7b3fef584f1",
+              "extra_small": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/variants/ntltcihxrnb7wal3spk4s8kumn9u/ea9a7d4c7468d9b785648f365f677f63cd0998f6c26a543d0fc3633ba5df015d",
+              "original": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/ntltcihxrnb7wal3spk4s8kumn9u",
+              "extra_props": {
+                "identified": true
+              }
+            }
+          ]
+        },
+        {
+          "id": 9666,
+          "title": " Vuttin Pistachio with crispy layers of cream, pistachios and Belgian chocolate",
+          "brand": null,
+          "sap_id": null,
+          "sku": "150051481",
+          "country_id": null,
+          "class_name": "Product",
+          "created_at": "2024-03-17T12:32:41.133Z",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 3697,
+              "parent_category_id": 1195,
+              "title": "Gathering Boxes",
+              "class_name": "Category",
+              "created_at": "2024-01-10T08:24:46.856Z",
+              "images": []
+            },
+            {
+              "id": 3698,
+              "parent_category_id": 2677,
+              "title": "Buy Local",
+              "class_name": "Category",
+              "created_at": "2024-01-10T08:54:05.628Z",
+              "images": []
+            },
+            {
+              "id": 3884,
+              "parent_category_id": 1333,
+              "title": "Ramadan Gatherings",
+              "class_name": "Category",
+              "created_at": "2024-03-05T07:52:09.999Z",
+              "images": []
+            },
+            {
+              "id": 3961,
+              "parent_category_id": 3755,
+              "title": "Vuttin",
+              "class_name": "Category",
+              "created_at": "2024-03-17T12:25:01.199Z",
+              "images": []
+            }
+          ],
+          "original_price": "130.0",
+          "discounted_price": "0.0",
+          "price": "130.0",
+          "quantity": 4,
+          "max_allowed_quantity": 0,
+          "shelf_zone": " - ",
+          "shelf_section": " - ",
+          "store_id": 2,
+          "images": [
+            {
+              "id": 14932,
+              "class_name": "Attachment",
+              "created_at": "2024-03-17T15:01:46.136Z",
+              "thumbnail": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/variants/ghbx7fzjz8zd5a0ykmeri8hk8v6v/cfac2cf5e20fe7457efd3f809e7f27e58f4ea9095af3b17038d0c3ad02cc7e81",
+              "large": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/variants/ghbx7fzjz8zd5a0ykmeri8hk8v6v/591fe3429fa59bfe054d222d66110883129e394e673fe4d32f213228e05dd59e",
+              "small": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/variants/ghbx7fzjz8zd5a0ykmeri8hk8v6v/29a9bad9089cbe7b09bf93243050556c68653f44594116934458f7b3fef584f1",
+              "extra_small": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/variants/ghbx7fzjz8zd5a0ykmeri8hk8v6v/ea9a7d4c7468d9b785648f365f677f63cd0998f6c26a543d0fc3633ba5df015d",
+              "original": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/ghbx7fzjz8zd5a0ykmeri8hk8v6v",
+              "extra_props": {
+                "identified": true
+              }
+            },
+            {
+              "id": 14931,
+              "class_name": "Attachment",
+              "created_at": "2024-03-17T15:01:46.096Z",
+              "thumbnail": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/variants/46w5vm0la55nslkr4pp6ytazft2a/cfac2cf5e20fe7457efd3f809e7f27e58f4ea9095af3b17038d0c3ad02cc7e81",
+              "large": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/variants/46w5vm0la55nslkr4pp6ytazft2a/591fe3429fa59bfe054d222d66110883129e394e673fe4d32f213228e05dd59e",
+              "small": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/variants/46w5vm0la55nslkr4pp6ytazft2a/29a9bad9089cbe7b09bf93243050556c68653f44594116934458f7b3fef584f1",
+              "extra_small": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/variants/46w5vm0la55nslkr4pp6ytazft2a/ea9a7d4c7468d9b785648f365f677f63cd0998f6c26a543d0fc3633ba5df015d",
+              "original": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/46w5vm0la55nslkr4pp6ytazft2a",
+              "extra_props": {
+                "identified": true
+              }
+            }
+          ]
+        },
+        {
+          "id": 9674,
+          "title": "Sugar Coated Magic Bar Peanut butter 644G",
+          "brand": null,
+          "sap_id": null,
+          "sku": "150155481",
+          "country_id": null,
+          "class_name": "Product",
+          "created_at": "2024-03-17T12:32:43.040Z",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 3697,
+              "parent_category_id": 1195,
+              "title": "Gathering Boxes",
+              "class_name": "Category",
+              "created_at": "2024-01-10T08:24:46.856Z",
+              "images": []
+            },
+            {
+              "id": 3698,
+              "parent_category_id": 2677,
+              "title": "Buy Local",
+              "class_name": "Category",
+              "created_at": "2024-01-10T08:54:05.628Z",
+              "images": []
+            },
+            {
+              "id": 3860,
+              "parent_category_id": 3755,
+              "title": "Sugar Coated",
+              "class_name": "Category",
+              "created_at": "2024-02-21T10:20:04.047Z",
+              "images": []
+            },
+            {
+              "id": 3884,
+              "parent_category_id": 1333,
+              "title": "Ramadan Gatherings",
+              "class_name": "Category",
+              "created_at": "2024-03-05T07:52:09.999Z",
+              "images": []
+            }
+          ],
+          "original_price": "93.0",
+          "discounted_price": "0.0",
+          "price": "93.0",
+          "quantity": 4,
+          "max_allowed_quantity": 0,
+          "shelf_zone": " - ",
+          "shelf_section": " - ",
+          "store_id": 2,
+          "images": [
+            {
+              "id": 14941,
+              "class_name": "Attachment",
+              "created_at": "2024-03-17T15:07:59.609Z",
+              "thumbnail": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/variants/q4clwvs0comgzxphfw5dt7mw4vpc/cfac2cf5e20fe7457efd3f809e7f27e58f4ea9095af3b17038d0c3ad02cc7e81",
+              "large": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/variants/q4clwvs0comgzxphfw5dt7mw4vpc/591fe3429fa59bfe054d222d66110883129e394e673fe4d32f213228e05dd59e",
+              "small": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/variants/q4clwvs0comgzxphfw5dt7mw4vpc/29a9bad9089cbe7b09bf93243050556c68653f44594116934458f7b3fef584f1",
+              "extra_small": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/variants/q4clwvs0comgzxphfw5dt7mw4vpc/ea9a7d4c7468d9b785648f365f677f63cd0998f6c26a543d0fc3633ba5df015d",
+              "original": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/q4clwvs0comgzxphfw5dt7mw4vpc",
+              "extra_props": {
+                "identified": true
+              }
+            }
+          ]
+        },
+        {
+          "id": 9672,
+          "title": "Sharqiya - Large pecan baklava",
+          "brand": null,
+          "sap_id": null,
+          "sku": "150129481",
+          "country_id": null,
+          "class_name": "Product",
+          "created_at": "2024-03-17T12:32:42.571Z",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 3697,
+              "parent_category_id": 1195,
+              "title": "Gathering Boxes",
+              "class_name": "Category",
+              "created_at": "2024-01-10T08:24:46.856Z",
+              "images": []
+            },
+            {
+              "id": 3698,
+              "parent_category_id": 2677,
+              "title": "Buy Local",
+              "class_name": "Category",
+              "created_at": "2024-01-10T08:54:05.628Z",
+              "images": []
+            },
+            {
+              "id": 3884,
+              "parent_category_id": 1333,
+              "title": "Ramadan Gatherings",
+              "class_name": "Category",
+              "created_at": "2024-03-05T07:52:09.999Z",
+              "images": []
+            },
+            {
+              "id": 3962,
+              "parent_category_id": 3755,
+              "title": "Sharqiya",
+              "class_name": "Category",
+              "created_at": "2024-03-17T12:25:01.852Z",
+              "images": []
+            }
+          ],
+          "original_price": "117.0",
+          "discounted_price": "0.0",
+          "price": "117.0",
+          "quantity": 3,
+          "max_allowed_quantity": 0,
+          "shelf_zone": " - ",
+          "shelf_section": " - ",
+          "store_id": 2,
+          "images": [
+            {
+              "id": 14940,
+              "class_name": "Attachment",
+              "created_at": "2024-03-17T15:07:24.871Z",
+              "thumbnail": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/variants/bbvmojyld35lyck0c2yppbjhcaf7/cfac2cf5e20fe7457efd3f809e7f27e58f4ea9095af3b17038d0c3ad02cc7e81",
+              "large": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/variants/bbvmojyld35lyck0c2yppbjhcaf7/591fe3429fa59bfe054d222d66110883129e394e673fe4d32f213228e05dd59e",
+              "small": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/variants/bbvmojyld35lyck0c2yppbjhcaf7/29a9bad9089cbe7b09bf93243050556c68653f44594116934458f7b3fef584f1",
+              "extra_small": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/variants/bbvmojyld35lyck0c2yppbjhcaf7/ea9a7d4c7468d9b785648f365f677f63cd0998f6c26a543d0fc3633ba5df015d",
+              "original": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/bbvmojyld35lyck0c2yppbjhcaf7",
+              "extra_props": {
+                "identified": true
+              }
+            }
+          ]
+        },
+        {
+          "id": 9647,
+          "title": "The Palm Trees Egypation Linen tablecloth 170X300cm",
+          "brand": null,
+          "sap_id": null,
+          "sku": "90319099",
+          "country_id": null,
+          "class_name": "Product",
+          "created_at": "2024-03-14T11:13:00.945Z",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 1430,
+              "parent_category_id": 1323,
+              "title": "Ramadan Decorations",
+              "class_name": "Category",
+              "created_at": "2023-03-15T08:13:11.241Z",
+              "images": []
+            },
+            {
+              "id": 1447,
+              "parent_category_id": 1333,
+              "title": "Gifting",
+              "class_name": "Category",
+              "created_at": "2023-03-16T11:35:41.395Z",
+              "images": []
+            }
+          ],
+          "original_price": "579.0",
+          "discounted_price": "0.0",
+          "price": "579.0",
+          "quantity": 1,
+          "max_allowed_quantity": 0,
+          "shelf_zone": " - ",
+          "shelf_section": " - ",
+          "store_id": 2,
+          "images": [
+            {
+              "id": 15058,
+              "class_name": "Attachment",
+              "created_at": "2024-03-21T13:30:01.141Z",
+              "thumbnail": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/variants/nsguayyyq16xktf1kpo59xjn2cbb/d9a7142c0edd0c7ba3c0514da6fd9ac8c6600935a3fbee1525591a8b02d174d3",
+              "large": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/variants/nsguayyyq16xktf1kpo59xjn2cbb/7db2cf65b821e1c913278aa2330b2b0d0a3de80d2e08d670f168338aff27b88a",
+              "small": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/variants/nsguayyyq16xktf1kpo59xjn2cbb/586a0a7852ceebf33b31e3d51f8df03bb75dcf62780a7b8307e70f0841f63592",
+              "extra_small": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/variants/nsguayyyq16xktf1kpo59xjn2cbb/1f85669116353e17ab4cce87fd13f5112cb0fa9c099a4799ddc8f38d687025ff",
+              "original": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/nsguayyyq16xktf1kpo59xjn2cbb",
+              "extra_props": {
+                "identified": true
+              }
+            },
+            {
+              "id": 14963,
+              "class_name": "Attachment",
+              "created_at": "2024-03-18T13:17:11.585Z",
+              "thumbnail": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/variants/xo3owwzywdv4i1yz4k9i9zff4uip/8974e06bede6eadfea9df0156e3cf43912d4f24e0479b08eed30d18958b5d511",
+              "large": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/variants/xo3owwzywdv4i1yz4k9i9zff4uip/ca9ea17b6acbaf753123b70144c73950235d4ca2b616a29238c3b5bd0ea05631",
+              "small": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/variants/xo3owwzywdv4i1yz4k9i9zff4uip/7fc33df341bf9615deb943cdd55141e1f0b8634ccbadb2f061f1244a231e252b",
+              "extra_small": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/variants/xo3owwzywdv4i1yz4k9i9zff4uip/c67e727e4475426178726efc9c0dfad01f96fb0375cef0d813f46d3587db1627",
+              "original": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/xo3owwzywdv4i1yz4k9i9zff4uip",
+              "extra_props": {
+                "identified": true
+              }
+            },
+            {
+              "id": 14962,
+              "class_name": "Attachment",
+              "created_at": "2024-03-18T13:17:11.551Z",
+              "thumbnail": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/variants/j4zz9rroh5q5gsr53dy2vp8rnvzz/cfac2cf5e20fe7457efd3f809e7f27e58f4ea9095af3b17038d0c3ad02cc7e81",
+              "large": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/variants/j4zz9rroh5q5gsr53dy2vp8rnvzz/591fe3429fa59bfe054d222d66110883129e394e673fe4d32f213228e05dd59e",
+              "small": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/variants/j4zz9rroh5q5gsr53dy2vp8rnvzz/29a9bad9089cbe7b09bf93243050556c68653f44594116934458f7b3fef584f1",
+              "extra_small": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/variants/j4zz9rroh5q5gsr53dy2vp8rnvzz/ea9a7d4c7468d9b785648f365f677f63cd0998f6c26a543d0fc3633ba5df015d",
+              "original": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/j4zz9rroh5q5gsr53dy2vp8rnvzz",
+              "extra_props": {
+                "identified": true
+              }
+            }
+          ]
+        },
+        {
+          "id": 9670,
+          "title": "Sharqiya  Large cashew baklava ",
+          "brand": null,
+          "sap_id": null,
+          "sku": "150103481",
+          "country_id": null,
+          "class_name": "Product",
+          "created_at": "2024-03-17T12:32:42.081Z",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 3697,
+              "parent_category_id": 1195,
+              "title": "Gathering Boxes",
+              "class_name": "Category",
+              "created_at": "2024-01-10T08:24:46.856Z",
+              "images": []
+            },
+            {
+              "id": 3698,
+              "parent_category_id": 2677,
+              "title": "Buy Local",
+              "class_name": "Category",
+              "created_at": "2024-01-10T08:54:05.628Z",
+              "images": []
+            },
+            {
+              "id": 3884,
+              "parent_category_id": 1333,
+              "title": "Ramadan Gatherings",
+              "class_name": "Category",
+              "created_at": "2024-03-05T07:52:09.999Z",
+              "images": []
+            },
+            {
+              "id": 3962,
+              "parent_category_id": 3755,
+              "title": "Sharqiya",
+              "class_name": "Category",
+              "created_at": "2024-03-17T12:25:01.852Z",
+              "images": []
+            }
+          ],
+          "original_price": "113.0",
+          "discounted_price": "0.0",
+          "price": "113.0",
+          "quantity": 4,
+          "max_allowed_quantity": 0,
+          "shelf_zone": " - ",
+          "shelf_section": " - ",
+          "store_id": 2,
+          "images": [
+            {
+              "id": 14938,
+              "class_name": "Attachment",
+              "created_at": "2024-03-17T15:06:01.367Z",
+              "thumbnail": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/variants/fkt5efmzmfnoob8keaxtfzpapd9w/cfac2cf5e20fe7457efd3f809e7f27e58f4ea9095af3b17038d0c3ad02cc7e81",
+              "large": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/variants/fkt5efmzmfnoob8keaxtfzpapd9w/591fe3429fa59bfe054d222d66110883129e394e673fe4d32f213228e05dd59e",
+              "small": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/variants/fkt5efmzmfnoob8keaxtfzpapd9w/29a9bad9089cbe7b09bf93243050556c68653f44594116934458f7b3fef584f1",
+              "extra_small": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/variants/fkt5efmzmfnoob8keaxtfzpapd9w/ea9a7d4c7468d9b785648f365f677f63cd0998f6c26a543d0fc3633ba5df015d",
+              "original": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/fkt5efmzmfnoob8keaxtfzpapd9w",
+              "extra_props": {
+                "identified": true
+              }
+            }
+          ]
+        },
+        {
+          "id": 9669,
+          "title": "Sharqiya  Small cashew baklava",
+          "brand": null,
+          "sap_id": null,
+          "sku": "150090481",
+          "country_id": null,
+          "class_name": "Product",
+          "created_at": "2024-03-17T12:32:41.863Z",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 3697,
+              "parent_category_id": 1195,
+              "title": "Gathering Boxes",
+              "class_name": "Category",
+              "created_at": "2024-01-10T08:24:46.856Z",
+              "images": []
+            },
+            {
+              "id": 3698,
+              "parent_category_id": 2677,
+              "title": "Buy Local",
+              "class_name": "Category",
+              "created_at": "2024-01-10T08:54:05.628Z",
+              "images": []
+            },
+            {
+              "id": 3884,
+              "parent_category_id": 1333,
+              "title": "Ramadan Gatherings",
+              "class_name": "Category",
+              "created_at": "2024-03-05T07:52:09.999Z",
+              "images": []
+            },
+            {
+              "id": 3962,
+              "parent_category_id": 3755,
+              "title": "Sharqiya",
+              "class_name": "Category",
+              "created_at": "2024-03-17T12:25:01.852Z",
+              "images": []
+            }
+          ],
+          "original_price": "65.0",
+          "discounted_price": "0.0",
+          "price": "65.0",
+          "quantity": 2,
+          "max_allowed_quantity": 0,
+          "shelf_zone": " - ",
+          "shelf_section": " - ",
+          "store_id": 2,
+          "images": [
+            {
+              "id": 14937,
+              "class_name": "Attachment",
+              "created_at": "2024-03-17T15:05:04.814Z",
+              "thumbnail": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/variants/bky8ujhy7phu78rdek0jmorrt092/d9a7142c0edd0c7ba3c0514da6fd9ac8c6600935a3fbee1525591a8b02d174d3",
+              "large": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/variants/bky8ujhy7phu78rdek0jmorrt092/7db2cf65b821e1c913278aa2330b2b0d0a3de80d2e08d670f168338aff27b88a",
+              "small": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/variants/bky8ujhy7phu78rdek0jmorrt092/586a0a7852ceebf33b31e3d51f8df03bb75dcf62780a7b8307e70f0841f63592",
+              "extra_small": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/variants/bky8ujhy7phu78rdek0jmorrt092/1f85669116353e17ab4cce87fd13f5112cb0fa9c099a4799ddc8f38d687025ff",
+              "original": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/bky8ujhy7phu78rdek0jmorrt092",
+              "extra_props": {
+                "identified": true
+              }
+            }
+          ]
+        },
+        {
+          "id": 9649,
+          "title": "Hanoverian Selections",
+          "brand": null,
+          "sap_id": null,
+          "sku": "1100341",
+          "country_id": null,
+          "class_name": "Product",
+          "created_at": "2024-03-17T08:17:09.525Z",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 3856,
+              "parent_category_id": 3755,
+              "title": "Hanoverian",
+              "class_name": "Category",
+              "created_at": "2024-02-21T10:20:02.197Z",
+              "images": []
+            },
+            {
+              "id": 3884,
+              "parent_category_id": 1333,
+              "title": "Ramadan Gatherings",
+              "class_name": "Category",
+              "created_at": "2024-03-05T07:52:09.999Z",
+              "images": []
+            }
+          ],
+          "original_price": "180.0",
+          "discounted_price": "0.0",
+          "price": "180.0",
+          "quantity": 9,
+          "max_allowed_quantity": 0,
+          "shelf_zone": " - ",
+          "shelf_section": " - ",
+          "store_id": 2,
+          "images": [
+            {
+              "id": 14922,
+              "class_name": "Attachment",
+              "created_at": "2024-03-17T09:01:53.676Z",
+              "thumbnail": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/variants/lzwp1kj6vvtv5i6nlcl3ocvrwa1h/8974e06bede6eadfea9df0156e3cf43912d4f24e0479b08eed30d18958b5d511",
+              "large": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/variants/lzwp1kj6vvtv5i6nlcl3ocvrwa1h/ca9ea17b6acbaf753123b70144c73950235d4ca2b616a29238c3b5bd0ea05631",
+              "small": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/variants/lzwp1kj6vvtv5i6nlcl3ocvrwa1h/7fc33df341bf9615deb943cdd55141e1f0b8634ccbadb2f061f1244a231e252b",
+              "extra_small": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/variants/lzwp1kj6vvtv5i6nlcl3ocvrwa1h/c67e727e4475426178726efc9c0dfad01f96fb0375cef0d813f46d3587db1627",
+              "original": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/lzwp1kj6vvtv5i6nlcl3ocvrwa1h",
+              "extra_props": {
+                "identified": true
+              }
+            },
+            {
+              "id": 14921,
+              "class_name": "Attachment",
+              "created_at": "2024-03-17T09:01:53.629Z",
+              "thumbnail": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/variants/7o7yuudnosjdchczz5gwtxoxqs70/8974e06bede6eadfea9df0156e3cf43912d4f24e0479b08eed30d18958b5d511",
+              "large": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/variants/7o7yuudnosjdchczz5gwtxoxqs70/ca9ea17b6acbaf753123b70144c73950235d4ca2b616a29238c3b5bd0ea05631",
+              "small": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/variants/7o7yuudnosjdchczz5gwtxoxqs70/7fc33df341bf9615deb943cdd55141e1f0b8634ccbadb2f061f1244a231e252b",
+              "extra_small": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/variants/7o7yuudnosjdchczz5gwtxoxqs70/c67e727e4475426178726efc9c0dfad01f96fb0375cef0d813f46d3587db1627",
+              "original": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/7o7yuudnosjdchczz5gwtxoxqs70",
+              "extra_props": {
+                "identified": true
+              }
+            }
+          ]
+        },
+        {
+          "id": 9675,
+          "title": "Vuttin Mini Pistachio",
+          "brand": null,
+          "sap_id": null,
+          "sku": "150168481",
+          "country_id": null,
+          "class_name": "Product",
+          "created_at": "2024-03-17T12:32:43.266Z",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 3697,
+              "parent_category_id": 1195,
+              "title": "Gathering Boxes",
+              "class_name": "Category",
+              "created_at": "2024-01-10T08:24:46.856Z",
+              "images": []
+            },
+            {
+              "id": 3698,
+              "parent_category_id": 2677,
+              "title": "Buy Local",
+              "class_name": "Category",
+              "created_at": "2024-01-10T08:54:05.628Z",
+              "images": []
+            },
+            {
+              "id": 3884,
+              "parent_category_id": 1333,
+              "title": "Ramadan Gatherings",
+              "class_name": "Category",
+              "created_at": "2024-03-05T07:52:09.999Z",
+              "images": []
+            },
+            {
+              "id": 3961,
+              "parent_category_id": 3755,
+              "title": "Vuttin",
+              "class_name": "Category",
+              "created_at": "2024-03-17T12:25:01.199Z",
+              "images": []
+            }
+          ],
+          "original_price": "89.0",
+          "discounted_price": "0.0",
+          "price": "89.0",
+          "quantity": 4,
+          "max_allowed_quantity": 0,
+          "shelf_zone": " - ",
+          "shelf_section": " - ",
+          "store_id": 2,
+          "images": [
+            {
+              "id": 14942,
+              "class_name": "Attachment",
+              "created_at": "2024-03-17T15:08:29.816Z",
+              "thumbnail": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/variants/lj0mryx2w0zkriv5nicyi3bpt28y/d9a7142c0edd0c7ba3c0514da6fd9ac8c6600935a3fbee1525591a8b02d174d3",
+              "large": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/variants/lj0mryx2w0zkriv5nicyi3bpt28y/7db2cf65b821e1c913278aa2330b2b0d0a3de80d2e08d670f168338aff27b88a",
+              "small": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/variants/lj0mryx2w0zkriv5nicyi3bpt28y/586a0a7852ceebf33b31e3d51f8df03bb75dcf62780a7b8307e70f0841f63592",
+              "extra_small": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/variants/lj0mryx2w0zkriv5nicyi3bpt28y/1f85669116353e17ab4cce87fd13f5112cb0fa9c099a4799ddc8f38d687025ff",
+              "original": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/lj0mryx2w0zkriv5nicyi3bpt28y",
+              "extra_props": {
+                "identified": true
+              }
+            }
+          ]
+        },
+        {
+          "id": 9668,
+          "title": "Solace Almond Bars Caramelized Almond Flakes with Chocolate 420g",
+          "brand": null,
+          "sap_id": null,
+          "sku": "150077481",
+          "country_id": null,
+          "class_name": "Product",
+          "created_at": "2024-03-17T12:32:41.665Z",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 3697,
+              "parent_category_id": 1195,
+              "title": "Gathering Boxes",
+              "class_name": "Category",
+              "created_at": "2024-01-10T08:24:46.856Z",
+              "images": []
+            },
+            {
+              "id": 3698,
+              "parent_category_id": 2677,
+              "title": "Buy Local",
+              "class_name": "Category",
+              "created_at": "2024-01-10T08:54:05.628Z",
+              "images": []
+            },
+            {
+              "id": 3884,
+              "parent_category_id": 1333,
+              "title": "Ramadan Gatherings",
+              "class_name": "Category",
+              "created_at": "2024-03-05T07:52:09.999Z",
+              "images": []
+            }
+          ],
+          "original_price": "115.0",
+          "discounted_price": "0.0",
+          "price": "115.0",
+          "quantity": 4,
+          "max_allowed_quantity": 0,
+          "shelf_zone": " - ",
+          "shelf_section": " - ",
+          "store_id": 2,
+          "images": [
+            {
+              "id": 14936,
+              "class_name": "Attachment",
+              "created_at": "2024-03-17T15:03:13.130Z",
+              "thumbnail": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/variants/o3n3e6ejwb3kn3otwdw9iypw7f40/d9a7142c0edd0c7ba3c0514da6fd9ac8c6600935a3fbee1525591a8b02d174d3",
+              "large": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/variants/o3n3e6ejwb3kn3otwdw9iypw7f40/7db2cf65b821e1c913278aa2330b2b0d0a3de80d2e08d670f168338aff27b88a",
+              "small": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/variants/o3n3e6ejwb3kn3otwdw9iypw7f40/586a0a7852ceebf33b31e3d51f8df03bb75dcf62780a7b8307e70f0841f63592",
+              "extra_small": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/variants/o3n3e6ejwb3kn3otwdw9iypw7f40/1f85669116353e17ab4cce87fd13f5112cb0fa9c099a4799ddc8f38d687025ff",
+              "original": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/o3n3e6ejwb3kn3otwdw9iypw7f40",
+              "extra_props": {
+                "identified": true
+              }
+            },
+            {
+              "id": 14935,
+              "class_name": "Attachment",
+              "created_at": "2024-03-17T15:03:13.087Z",
+              "thumbnail": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/variants/u2sik0yuhz6szknuw980x7d4ysll/cfac2cf5e20fe7457efd3f809e7f27e58f4ea9095af3b17038d0c3ad02cc7e81",
+              "large": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/variants/u2sik0yuhz6szknuw980x7d4ysll/591fe3429fa59bfe054d222d66110883129e394e673fe4d32f213228e05dd59e",
+              "small": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/variants/u2sik0yuhz6szknuw980x7d4ysll/29a9bad9089cbe7b09bf93243050556c68653f44594116934458f7b3fef584f1",
+              "extra_small": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/variants/u2sik0yuhz6szknuw980x7d4ysll/ea9a7d4c7468d9b785648f365f677f63cd0998f6c26a543d0fc3633ba5df015d",
+              "original": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/u2sik0yuhz6szknuw980x7d4ysll",
+              "extra_props": {
+                "identified": true
+              }
+            }
+          ]
+        },
+        {
+          "id": 9673,
+          "title": "Solace Chocolate Crunch",
+          "brand": null,
+          "sap_id": null,
+          "sku": "150142481",
+          "country_id": null,
+          "class_name": "Product",
+          "created_at": "2024-03-17T12:32:42.833Z",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 3697,
+              "parent_category_id": 1195,
+              "title": "Gathering Boxes",
+              "class_name": "Category",
+              "created_at": "2024-01-10T08:24:46.856Z",
+              "images": []
+            },
+            {
+              "id": 3698,
+              "parent_category_id": 2677,
+              "title": "Buy Local",
+              "class_name": "Category",
+              "created_at": "2024-01-10T08:54:05.628Z",
+              "images": []
+            },
+            {
+              "id": 3884,
+              "parent_category_id": 1333,
+              "title": "Ramadan Gatherings",
+              "class_name": "Category",
+              "created_at": "2024-03-05T07:52:09.999Z",
+              "images": []
+            }
+          ],
+          "original_price": "115.0",
+          "discounted_price": "0.0",
+          "price": "115.0",
+          "quantity": 4,
+          "max_allowed_quantity": 0,
+          "shelf_zone": " - ",
+          "shelf_section": " - ",
+          "store_id": 2,
+          "images": [
+            {
+              "id": 14982,
+              "class_name": "Attachment",
+              "created_at": "2024-03-20T12:57:30.805Z",
+              "thumbnail": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/variants/1sl3dfexmy8e0kcup1suefgdoja3/d9a7142c0edd0c7ba3c0514da6fd9ac8c6600935a3fbee1525591a8b02d174d3",
+              "large": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/variants/1sl3dfexmy8e0kcup1suefgdoja3/7db2cf65b821e1c913278aa2330b2b0d0a3de80d2e08d670f168338aff27b88a",
+              "small": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/variants/1sl3dfexmy8e0kcup1suefgdoja3/586a0a7852ceebf33b31e3d51f8df03bb75dcf62780a7b8307e70f0841f63592",
+              "extra_small": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/variants/1sl3dfexmy8e0kcup1suefgdoja3/1f85669116353e17ab4cce87fd13f5112cb0fa9c099a4799ddc8f38d687025ff",
+              "original": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/1sl3dfexmy8e0kcup1suefgdoja3",
+              "extra_props": {
+                "identified": true
+              }
+            },
+            {
+              "id": 14981,
+              "class_name": "Attachment",
+              "created_at": "2024-03-20T12:57:30.774Z",
+              "thumbnail": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/variants/6kmp1tg8opv1djaoxthdxmg3kvkc/d9a7142c0edd0c7ba3c0514da6fd9ac8c6600935a3fbee1525591a8b02d174d3",
+              "large": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/variants/6kmp1tg8opv1djaoxthdxmg3kvkc/7db2cf65b821e1c913278aa2330b2b0d0a3de80d2e08d670f168338aff27b88a",
+              "small": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/variants/6kmp1tg8opv1djaoxthdxmg3kvkc/586a0a7852ceebf33b31e3d51f8df03bb75dcf62780a7b8307e70f0841f63592",
+              "extra_small": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/variants/6kmp1tg8opv1djaoxthdxmg3kvkc/1f85669116353e17ab4cce87fd13f5112cb0fa9c099a4799ddc8f38d687025ff",
+              "original": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/6kmp1tg8opv1djaoxthdxmg3kvkc",
+              "extra_props": {
+                "identified": true
+              }
+            },
+            {
+              "id": 14980,
+              "class_name": "Attachment",
+              "created_at": "2024-03-20T12:57:30.730Z",
+              "thumbnail": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/variants/46weo4j2oanz5fiywxdfhf7nj0bf/d9a7142c0edd0c7ba3c0514da6fd9ac8c6600935a3fbee1525591a8b02d174d3",
+              "large": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/variants/46weo4j2oanz5fiywxdfhf7nj0bf/7db2cf65b821e1c913278aa2330b2b0d0a3de80d2e08d670f168338aff27b88a",
+              "small": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/variants/46weo4j2oanz5fiywxdfhf7nj0bf/586a0a7852ceebf33b31e3d51f8df03bb75dcf62780a7b8307e70f0841f63592",
+              "extra_small": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/variants/46weo4j2oanz5fiywxdfhf7nj0bf/1f85669116353e17ab4cce87fd13f5112cb0fa9c099a4799ddc8f38d687025ff",
+              "original": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/46weo4j2oanz5fiywxdfhf7nj0bf",
+              "extra_props": {
+                "identified": true
+              }
+            }
+          ]
+        },
+        {
+          "id": 9667,
+          "title": "Bardisi - Petit Four Mix 1/2 Kg",
+          "brand": null,
+          "sap_id": null,
+          "sku": "150064481",
+          "country_id": null,
+          "class_name": "Product",
+          "created_at": "2024-03-17T12:32:41.442Z",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 3697,
+              "parent_category_id": 1195,
+              "title": "Gathering Boxes",
+              "class_name": "Category",
+              "created_at": "2024-01-10T08:24:46.856Z",
+              "images": []
+            },
+            {
+              "id": 3698,
+              "parent_category_id": 2677,
+              "title": "Buy Local",
+              "class_name": "Category",
+              "created_at": "2024-01-10T08:54:05.628Z",
+              "images": []
+            },
+            {
+              "id": 3873,
+              "parent_category_id": 3755,
+              "title": "Bardisi",
+              "class_name": "Category",
+              "created_at": "2024-02-28T13:55:16.347Z",
+              "images": []
+            },
+            {
+              "id": 3884,
+              "parent_category_id": 1333,
+              "title": "Ramadan Gatherings",
+              "class_name": "Category",
+              "created_at": "2024-03-05T07:52:09.999Z",
+              "images": []
+            }
+          ],
+          "original_price": "98.0",
+          "discounted_price": "0.0",
+          "price": "98.0",
+          "quantity": 7,
+          "max_allowed_quantity": 0,
+          "shelf_zone": " - ",
+          "shelf_section": " - ",
+          "store_id": 2,
+          "images": [
+            {
+              "id": 14934,
+              "class_name": "Attachment",
+              "created_at": "2024-03-17T15:02:22.791Z",
+              "thumbnail": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/variants/18bwu43x073artvsy4kv7de4290z/cfac2cf5e20fe7457efd3f809e7f27e58f4ea9095af3b17038d0c3ad02cc7e81",
+              "large": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/variants/18bwu43x073artvsy4kv7de4290z/591fe3429fa59bfe054d222d66110883129e394e673fe4d32f213228e05dd59e",
+              "small": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/variants/18bwu43x073artvsy4kv7de4290z/29a9bad9089cbe7b09bf93243050556c68653f44594116934458f7b3fef584f1",
+              "extra_small": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/variants/18bwu43x073artvsy4kv7de4290z/ea9a7d4c7468d9b785648f365f677f63cd0998f6c26a543d0fc3633ba5df015d",
+              "original": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/18bwu43x073artvsy4kv7de4290z",
+              "extra_props": {
+                "identified": true
+              }
+            },
+            {
+              "id": 14933,
+              "class_name": "Attachment",
+              "created_at": "2024-03-17T15:02:22.750Z",
+              "thumbnail": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/variants/opnx1ingsib3bzgxy8da4wxhevwm/d9a7142c0edd0c7ba3c0514da6fd9ac8c6600935a3fbee1525591a8b02d174d3",
+              "large": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/variants/opnx1ingsib3bzgxy8da4wxhevwm/7db2cf65b821e1c913278aa2330b2b0d0a3de80d2e08d670f168338aff27b88a",
+              "small": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/variants/opnx1ingsib3bzgxy8da4wxhevwm/586a0a7852ceebf33b31e3d51f8df03bb75dcf62780a7b8307e70f0841f63592",
+              "extra_small": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/variants/opnx1ingsib3bzgxy8da4wxhevwm/1f85669116353e17ab4cce87fd13f5112cb0fa9c099a4799ddc8f38d687025ff",
+              "original": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/opnx1ingsib3bzgxy8da4wxhevwm",
+              "extra_props": {
+                "identified": true
+              }
+            }
+          ]
+        },
+        {
+          "id": 9113,
+          "title": null,
+          "brand": null,
+          "sap_id": null,
+          "sku": "",
+          "country_id": null,
+          "class_name": "Product",
+          "created_at": "2024-01-25T16:11:12.372Z",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 3856,
+              "parent_category_id": 3755,
+              "title": "Hanoverian",
+              "class_name": "Category",
+              "created_at": "2024-02-21T10:20:02.197Z",
+              "images": []
+            },
+            {
+              "id": 3884,
+              "parent_category_id": 1333,
+              "title": "Ramadan Gatherings",
+              "class_name": "Category",
+              "created_at": "2024-03-05T07:52:09.999Z",
+              "images": []
+            }
+          ],
+          "original_price": "65.0",
+          "discounted_price": "0.0",
+          "price": "65.0",
+          "quantity": 3,
+          "max_allowed_quantity": 0,
+          "shelf_zone": " - ",
+          "shelf_section": " - ",
+          "store_id": 2,
+          "images": []
+        },
+        {
+          "id": 9685,
+          "title": "The Palm Trees Egypation Linen Runner (180 x 40)",
+          "brand": null,
+          "sap_id": null,
+          "sku": "90319476",
+          "country_id": null,
+          "class_name": "Product",
+          "created_at": "2024-03-21T08:50:54.197Z",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 1430,
+              "parent_category_id": 1323,
+              "title": "Ramadan Decorations",
+              "class_name": "Category",
+              "created_at": "2023-03-15T08:13:11.241Z",
+              "images": []
+            },
+            {
+              "id": 1447,
+              "parent_category_id": 1333,
+              "title": "Gifting",
+              "class_name": "Category",
+              "created_at": "2023-03-16T11:35:41.395Z",
+              "images": []
+            }
+          ],
+          "original_price": "139.0",
+          "discounted_price": null,
+          "price": "139.0",
+          "quantity": 4,
+          "max_allowed_quantity": 0,
+          "shelf_zone": null,
+          "shelf_section": null,
+          "store_id": 2,
+          "images": [
+            {
+              "id": 15061,
+              "class_name": "Attachment",
+              "created_at": "2024-03-22T01:58:11.159Z",
+              "thumbnail": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/variants/wodymit6t8z7uz1vvbvv9pru1j09/8974e06bede6eadfea9df0156e3cf43912d4f24e0479b08eed30d18958b5d511",
+              "large": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/variants/wodymit6t8z7uz1vvbvv9pru1j09/ca9ea17b6acbaf753123b70144c73950235d4ca2b616a29238c3b5bd0ea05631",
+              "small": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/variants/wodymit6t8z7uz1vvbvv9pru1j09/7fc33df341bf9615deb943cdd55141e1f0b8634ccbadb2f061f1244a231e252b",
+              "extra_small": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/variants/wodymit6t8z7uz1vvbvv9pru1j09/c67e727e4475426178726efc9c0dfad01f96fb0375cef0d813f46d3587db1627",
+              "original": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/wodymit6t8z7uz1vvbvv9pru1j09",
+              "extra_props": {
+                "identified": true
+              }
+            },
+            {
+              "id": 15060,
+              "class_name": "Attachment",
+              "created_at": "2024-03-22T01:58:11.116Z",
+              "thumbnail": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/variants/ghxskcd8cw19crovznyaupy6tda9/8974e06bede6eadfea9df0156e3cf43912d4f24e0479b08eed30d18958b5d511",
+              "large": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/variants/ghxskcd8cw19crovznyaupy6tda9/ca9ea17b6acbaf753123b70144c73950235d4ca2b616a29238c3b5bd0ea05631",
+              "small": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/variants/ghxskcd8cw19crovznyaupy6tda9/7fc33df341bf9615deb943cdd55141e1f0b8634ccbadb2f061f1244a231e252b",
+              "extra_small": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/variants/ghxskcd8cw19crovznyaupy6tda9/c67e727e4475426178726efc9c0dfad01f96fb0375cef0d813f46d3587db1627",
+              "original": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/ghxskcd8cw19crovznyaupy6tda9",
+              "extra_props": {
+                "identified": true
+              }
+            }
+          ]
+        },
+        {
+          "id": 9687,
+          "title": "The Palm Trees Egypation Linen Runner (240 x 40)",
+          "brand": null,
+          "sap_id": null,
+          "sku": "90318568",
+          "country_id": null,
+          "class_name": "Product",
+          "created_at": "2024-03-21T08:50:54.395Z",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 1430,
+              "parent_category_id": 1323,
+              "title": "Ramadan Decorations",
+              "class_name": "Category",
+              "created_at": "2023-03-15T08:13:11.241Z",
+              "images": []
+            },
+            {
+              "id": 1447,
+              "parent_category_id": 1333,
+              "title": "Gifting",
+              "class_name": "Category",
+              "created_at": "2023-03-16T11:35:41.395Z",
+              "images": []
+            }
+          ],
+          "original_price": "179.0",
+          "discounted_price": null,
+          "price": "179.0",
+          "quantity": 2,
+          "max_allowed_quantity": 0,
+          "shelf_zone": null,
+          "shelf_section": null,
+          "store_id": 2,
+          "images": [
+            {
+              "id": 15063,
+              "class_name": "Attachment",
+              "created_at": "2024-03-22T01:58:54.414Z",
+              "thumbnail": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/variants/ikwvwlfasajzc9nuj6f35bzcon01/8974e06bede6eadfea9df0156e3cf43912d4f24e0479b08eed30d18958b5d511",
+              "large": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/variants/ikwvwlfasajzc9nuj6f35bzcon01/ca9ea17b6acbaf753123b70144c73950235d4ca2b616a29238c3b5bd0ea05631",
+              "small": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/variants/ikwvwlfasajzc9nuj6f35bzcon01/7fc33df341bf9615deb943cdd55141e1f0b8634ccbadb2f061f1244a231e252b",
+              "extra_small": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/variants/ikwvwlfasajzc9nuj6f35bzcon01/c67e727e4475426178726efc9c0dfad01f96fb0375cef0d813f46d3587db1627",
+              "original": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/ikwvwlfasajzc9nuj6f35bzcon01",
+              "extra_props": {
+                "identified": true
+              }
+            },
+            {
+              "id": 15062,
+              "class_name": "Attachment",
+              "created_at": "2024-03-22T01:58:54.372Z",
+              "thumbnail": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/variants/omhltzjlz8do46at2bq7y49uzvk8/8974e06bede6eadfea9df0156e3cf43912d4f24e0479b08eed30d18958b5d511",
+              "large": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/variants/omhltzjlz8do46at2bq7y49uzvk8/ca9ea17b6acbaf753123b70144c73950235d4ca2b616a29238c3b5bd0ea05631",
+              "small": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/variants/omhltzjlz8do46at2bq7y49uzvk8/7fc33df341bf9615deb943cdd55141e1f0b8634ccbadb2f061f1244a231e252b",
+              "extra_small": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/variants/omhltzjlz8do46at2bq7y49uzvk8/c67e727e4475426178726efc9c0dfad01f96fb0375cef0d813f46d3587db1627",
+              "original": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/omhltzjlz8do46at2bq7y49uzvk8",
+              "extra_props": {
+                "identified": true
+              }
+            }
+          ]
+        },
+        {
+          "id": 9447,
+          "title": "Terea Gold X10",
+          "brand": null,
+          "sap_id": null,
+          "sku": "7622100768661",
+          "country_id": null,
+          "class_name": "Product",
+          "created_at": "2024-03-03T12:31:25.912Z",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 3578,
+              "parent_category_id": 558,
+              "title": "Heated Tobacco",
+              "class_name": "Category",
+              "created_at": "2023-11-13T08:27:28.281Z",
+              "images": []
+            }
+          ],
+          "original_price": "250.0",
+          "discounted_price": "0.0",
+          "price": "250.0",
+          "quantity": 12,
+          "max_allowed_quantity": 0,
+          "shelf_zone": " - ",
+          "shelf_section": " - ",
+          "store_id": 2,
+          "images": [
+            {
+              "id": 14500,
+              "class_name": "Attachment",
+              "created_at": "2024-03-04T13:01:38.583Z",
+              "thumbnail": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/variants/r80ad2fuj0je1k8pg4uvf6uiddif/cfac2cf5e20fe7457efd3f809e7f27e58f4ea9095af3b17038d0c3ad02cc7e81",
+              "large": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/variants/r80ad2fuj0je1k8pg4uvf6uiddif/591fe3429fa59bfe054d222d66110883129e394e673fe4d32f213228e05dd59e",
+              "small": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/variants/r80ad2fuj0je1k8pg4uvf6uiddif/29a9bad9089cbe7b09bf93243050556c68653f44594116934458f7b3fef584f1",
+              "extra_small": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/variants/r80ad2fuj0je1k8pg4uvf6uiddif/ea9a7d4c7468d9b785648f365f677f63cd0998f6c26a543d0fc3633ba5df015d",
+              "original": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/r80ad2fuj0je1k8pg4uvf6uiddif",
+              "extra_props": {
+                "identified": true
+              }
+            }
+          ]
+        },
+        {
+          "id": 9448,
+          "title": "Terea Gold ",
+          "brand": null,
+          "sap_id": null,
+          "sku": "7622100768678",
+          "country_id": null,
+          "class_name": "Product",
+          "created_at": "2024-03-03T12:31:25.985Z",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 3578,
+              "parent_category_id": 558,
+              "title": "Heated Tobacco",
+              "class_name": "Category",
+              "created_at": "2023-11-13T08:27:28.281Z",
+              "images": []
+            }
+          ],
+          "original_price": "25.0",
+          "discounted_price": "0.0",
+          "price": "25.0",
+          "quantity": 2,
+          "max_allowed_quantity": 0,
+          "shelf_zone": " - ",
+          "shelf_section": " - ",
+          "store_id": 2,
+          "images": [
+            {
+              "id": 14501,
+              "class_name": "Attachment",
+              "created_at": "2024-03-04T13:04:56.210Z",
+              "thumbnail": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/variants/klpm5ufnkoiwumz9sj3xg9nsrkl4/cfac2cf5e20fe7457efd3f809e7f27e58f4ea9095af3b17038d0c3ad02cc7e81",
+              "large": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/variants/klpm5ufnkoiwumz9sj3xg9nsrkl4/591fe3429fa59bfe054d222d66110883129e394e673fe4d32f213228e05dd59e",
+              "small": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/variants/klpm5ufnkoiwumz9sj3xg9nsrkl4/29a9bad9089cbe7b09bf93243050556c68653f44594116934458f7b3fef584f1",
+              "extra_small": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/variants/klpm5ufnkoiwumz9sj3xg9nsrkl4/ea9a7d4c7468d9b785648f365f677f63cd0998f6c26a543d0fc3633ba5df015d",
+              "original": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/klpm5ufnkoiwumz9sj3xg9nsrkl4",
+              "extra_props": {
+                "identified": true
+              }
+            }
+          ]
+        },
+        {
+          "id": 9450,
+          "title": "Sweet Tamarind 450 Gm",
+          "brand": null,
+          "sap_id": null,
+          "sku": "8859436008034",
+          "country_id": null,
+          "class_name": "Product",
+          "created_at": "2024-03-05T11:20:49.166Z",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 1637,
+              "parent_category_id": 156,
+              "title": "Imported Fruit & Veg",
+              "class_name": "Category",
+              "created_at": "2023-05-24T08:58:25.330Z",
+              "images": []
+            },
+            {
+              "id": 1638,
+              "parent_category_id": 509,
+              "title": "Fruit & Veg",
+              "class_name": "Category",
+              "created_at": "2023-05-24T08:58:25.348Z",
+              "images": []
+            }
+          ],
+          "original_price": "9.95",
+          "discounted_price": "0.0",
+          "price": "9.95",
+          "quantity": 8,
+          "max_allowed_quantity": 0,
+          "shelf_zone": " - ",
+          "shelf_section": " - ",
+          "store_id": 2,
+          "images": [
+            {
+              "id": 14540,
+              "class_name": "Attachment",
+              "created_at": "2024-03-07T08:50:05.094Z",
+              "thumbnail": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/variants/kt9ph0czipdq5fu73kt4p6gf0abr/cfac2cf5e20fe7457efd3f809e7f27e58f4ea9095af3b17038d0c3ad02cc7e81",
+              "large": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/variants/kt9ph0czipdq5fu73kt4p6gf0abr/591fe3429fa59bfe054d222d66110883129e394e673fe4d32f213228e05dd59e",
+              "small": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/variants/kt9ph0czipdq5fu73kt4p6gf0abr/29a9bad9089cbe7b09bf93243050556c68653f44594116934458f7b3fef584f1",
+              "extra_small": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/variants/kt9ph0czipdq5fu73kt4p6gf0abr/ea9a7d4c7468d9b785648f365f677f63cd0998f6c26a543d0fc3633ba5df015d",
+              "original": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/kt9ph0czipdq5fu73kt4p6gf0abr",
+              "extra_props": {
+                "identified": true
+              }
+            }
+          ]
+        },
+        {
+          "id": 9459,
+          "title": "Baby Turnip 200 Gm",
+          "brand": null,
+          "sap_id": null,
+          "sku": "6009665700144",
+          "country_id": null,
+          "class_name": "Product",
+          "created_at": "2024-03-05T11:20:50.060Z",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 1637,
+              "parent_category_id": 156,
+              "title": "Imported Fruit & Veg",
+              "class_name": "Category",
+              "created_at": "2023-05-24T08:58:25.330Z",
+              "images": []
+            },
+            {
+              "id": 1638,
+              "parent_category_id": 509,
+              "title": "Fruit & Veg",
+              "class_name": "Category",
+              "created_at": "2023-05-24T08:58:25.348Z",
+              "images": []
+            }
+          ],
+          "original_price": "27.95",
+          "discounted_price": "0.0",
+          "price": "27.95",
+          "quantity": 2,
+          "max_allowed_quantity": 0,
+          "shelf_zone": " - ",
+          "shelf_section": " - ",
+          "store_id": 2,
+          "images": [
+            {
+              "id": 14550,
+              "class_name": "Attachment",
+              "created_at": "2024-03-07T08:58:18.896Z",
+              "thumbnail": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/variants/oev54k07n7wn9p0ognbzmh6nahc3/cfac2cf5e20fe7457efd3f809e7f27e58f4ea9095af3b17038d0c3ad02cc7e81",
+              "large": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/variants/oev54k07n7wn9p0ognbzmh6nahc3/591fe3429fa59bfe054d222d66110883129e394e673fe4d32f213228e05dd59e",
+              "small": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/variants/oev54k07n7wn9p0ognbzmh6nahc3/29a9bad9089cbe7b09bf93243050556c68653f44594116934458f7b3fef584f1",
+              "extra_small": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/variants/oev54k07n7wn9p0ognbzmh6nahc3/ea9a7d4c7468d9b785648f365f677f63cd0998f6c26a543d0fc3633ba5df015d",
+              "original": "https://s3.eu-central-1.amazonaws.com/cdn-prod-01.doos.sa/oev54k07n7wn9p0ognbzmh6nahc3",
+              "extra_props": {
+                "identified": true
+              }
+            }
+          ]
+        }
+      ],
+      "extra_data": {},
+      "current_count": 20,
+      "total": 151,
+      "limit": 20,
+      "offset": 0
+    },
+    "code": "ok",
+    "message": null,
+    "request_data": {
+      "started_at": "2024-04-30T12:05:13.241+00:00",
+      "ended_at": "2024-04-30T12:05:13.734+00:00"
+    }
+  }
+]
